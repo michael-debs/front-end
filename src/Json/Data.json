@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Drinks",
+        "categories": [
+            {
+                "name": "Soft Drink",
+                "items": [
+                    {
+                        "name": "Soda",
+                        "price": 35000
+                    },
+                    {
+                        "name": "Sparkling Water",
+                        "price": 35000
+                    },
+                    {
+                        "name": "Energy drink",
+                        "price": 35000
+                    },
+                    {
+                        "name": "Water",
+                        "price": 15000 
+                    }
+                ],
+                "note": ""
+            },
+            {
+                "name": "Fresh Drinks",
+                "items": [
+                    {
+                        "name": "Fresh orange juice(S)",
+                        "price": 40000 
+                    },
+                    {
+                        "name": "Fresh orange juice(L)",
+                        "price": 50000 
+                    },
+                    {
+                        "name": "Fresh grapefruit(S)",
+                        "price": 40000 
+                    },
+                    {
+                        "name": "Fresh grapefruit(L)",
+                        "price": 50000  
+                    },
+                    {
+                        "name": "Fresh carrots(S)",
+                        "price": 40000   
+                    },
+                    {
+                        "name": "Fresh carrots(L)",
+                        "price": 50000   
+                    }
+                ],
+                "note": ""
+            },
+            {
+                "name": "Iced Drinks",
+                "items": [
+                    {
+                        "name": "Slush",
+                        "price": 35000  
+                    },
+                    {
+                        "name": "Ice Tea(S)",
+                        "price": 45000  
+                    },
+                    {
+                        "name": "Ice Tea(L)",
+                        "price": 55000  
+                    },
+                    {
+                        "name": "Iced Mocha(L)",
+                        "price": 65000   
+                    },
+                    {
+                        "name": "Iced Mocha(S)",
+                        "price": 55000    
+                    },
+                    {
+                        "name": "Smoothie(L)",
+                        "price": 65000    
+                    },
+                    {
+                        "name": "Smoothie(S)",
+                        "price": 55000     
+                    },
+                    {
+                        "name": "Iced Coffee(L)",
+                        "price": 55000     
+                    },
+                    {
+                        "name": "Iced Coffee(S)",
+                        "price": 45000     
+                    },
+                    {
+                        "name": "Milkshakes(L)",
+                        "price": 70000     
+                    },
+                    {
+                        "name": "Milkshakes(S)",
+                        "price": 60000     
+                    },
+                    {
+                        "name": "Iced Nescafé(L)",
+                        "price": 55000     
+                    },
+                    {
+                        "name": "Iced Nescafé(S)",
+                        "price": 45000     
+                    }
+                ],
+                "note": "You can add a flavoured syrup to all of the above for only 15,000 LL"
+            },
+            {
+                "name": "Hot Drinks",
+                "items": [
+                    {
+                        "name": "Americano",
+                        "price": 35000  
+                    },
+                    {
+                        "name": "Espresso Coffee + water",
+                        "price": 40000  
+                    },
+                    {
+                        "name": "Espresso coffee",
+                        "price": 30000  
+                    },
+                    {
+                        "name": "All kinds of tea",
+                        "price": 30000   
+                    },
+                    {
+                        "name": "Café Latte",
+                        "price": 60000    
+                    },
+                    {
+                        "name": "Cappuccino",
+                        "price": 60000    
+                    },
+                    {
+                        "name": "Nescafé",
+                        "price": 60000    
+                    },
+                    {
+                        "name": "Hot chocolate",
+                        "price": 60000    
+                    }
+                ],
+                "note": "You can add a flavoured syrup to all of the above for only 20,000 LL"
+            }
+        ]
+    },
+    {
+        "name": "Food",
+        "categories": [
+            {
+                "name": "Salty",
+                "items": [
+                    {
+                        "name": "Chips(B)",
+                        "price": 30000 
+                    },
+                    {
+                        "name": "kaak(3 cheese)",
+                        "price": 55000  
+                    }
+                ],
+                "note": "You can add chilli sauce to the Kaak"
+            },
+            {
+                "name": "Desserts",
+                "items": [
+                    {
+                        "name": "Crêpes",
+                        "price": 80000  
+                    },
+                    {
+                        "name": "Waffles",
+                        "price": 80000   
+                    },
+                    {
+                        "name": "Ice-cream(1 scoop)",
+                        "price": 35000    
+                    }
+                ],
+                "note": "Desserts are available after 4 pm. You can add many flavors"
+            }
+        ]
+    }
+]
